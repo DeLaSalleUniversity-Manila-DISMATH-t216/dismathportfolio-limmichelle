@@ -50,3 +50,9 @@ dismathportfolio-limmichelle created by Classroom for GitHub
 - I also learned that <i>validity</i> and <i>truth</i> are two different things because an argument can be valid but not true. 
 - The rules of inference are <b> Modus Ponens, Modus Tollens, Hypothetical Syllogism, Disjunctive Syllogism, Addition, Simplification, Conjunction, and Resolution </b>.
 
+- <b> Note </b>
+- A <i> if </i> B 
+- where <p> A is <b> consequent </b> </p>  <p> B is <b> antecedent </b> </p>
+-  A <i> only if </i> B 
+- where <p> A is <b> antecedent </b> </p>  <p> B is <b> consequent </b> </p>  
+
