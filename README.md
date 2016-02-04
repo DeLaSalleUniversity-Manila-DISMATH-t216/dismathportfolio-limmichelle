@@ -53,6 +53,18 @@ dismathportfolio-limmichelle created by Classroom for GitHub
 - <b> Note </b>
 - A <i> if </i> B 
 - where <p> A is <b> consequent </b> </p>  <p> B is <b> antecedent </b> </p>
--  A <i> only if </i> B 
+- A <i> only if </i> B 
 - where <p> A is <b> antecedent </b> </p>  <p> B is <b> consequent </b> </p>  
+
+##WEEK 3
+- This week we learned a method on how to construct proofs  which is called <b> Methods of Proof </b>
+- Under <b> Methods of Proof </b> there are several ways on proving logical statemetns which are:
+- Direct Proof
+- Proof by Contraposition (Indirect)
+- Vacuous and Trivial Proof
+- Proof by Contradiction (Indirect)
+- Proof by Equivalence 
+- Mathematical Induction
+
+
 
