@@ -57,6 +57,25 @@ dismathportfolio-limmichelle created by Classroom for GitHub
 - where <p> A is <b> antecedent </b> </p>  <p> B is <b> consequent </b> </p>  
 
 ##WEEK 3
+* We discusssed logical equivalences.
+* Proving was not easy since you really need to be familiar with the laws like Identity, Domination, Negation, Double Negation, Idempotent, Commutative, Associative, Distributive, De Morgan's and Absorption. 
+* I realized that I need more practice to completely comprehend this topic. 
+* The superman homework was very challenging but it gave me an idea of what the quiz would be like.
+* The Rules of Inference was also discussed this week and it's somehow similar to the laws:
+  - Modus Ponens
+  - Modus Tollens
+  - Hypothetical Syllogism
+  - Disjunctive Syllogism
+  - Addition
+  - Simplification
+  - Conjunction
+  - Resolution
+* We also tackled the Universal and Existential Quantifier. 
+  - Universal quantifier - many mathematical statements assert that a property is true for all values of a variable in a particular domain.
+  - Existential quantifier - it is true if and only if p(x) is true for at least one value of x in the domain.
+* I also learned the defenition of an integer.
+* 
+##WEEK 4
 - This week we learned a method on how to construct proofs  which is called <b> Methods of Proof </b>
 - Under <b> Methods of Proof </b> there are several ways on proving logical statemetns which are:
 - Direct Proof
@@ -65,6 +84,16 @@ dismathportfolio-limmichelle created by Classroom for GitHub
 - Proof by Contradiction (Indirect)
 - Proof by Equivalence 
 - Mathematical Induction
+- I learned Methods of Proof is damn hard especially if you still haven't figured out Rules of Inferences.
+- So far Direct Proof until Contradiction were discussed, and it was an information overload.
+- But Direct proof seems easy enough.
+- I learned the defenition of an ODD and EVEN number again!
+
+##WEEK 5
+-We discussed Proof by Equivalence (HARD)  till Mathematical Induction.
+- We solved some exercises or examples of Methods of Proof which was very helpful but still confusing. 
+- Proviing by Bi-conditional is hard cause you need to prove it both sides of the premises and precedent.
+- We refreshed Mathematical Induction from our ENGALG2
 
 
 
