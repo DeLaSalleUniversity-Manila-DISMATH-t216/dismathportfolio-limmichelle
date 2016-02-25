@@ -70,11 +70,23 @@ dismathportfolio-limmichelle created by Classroom for GitHub
   - Simplification
   - Conjunction
   - Resolution
+|  **Type**  |  **Rule of Inference**  |  **Tautology**  |
+| :-------: | :--------------: | :---------: |
+| Modus Ponens |  p, p → q ∴ q  |  (p ∧ (p → q)) → q  |
+| Modus Tollens |  ¬q, p → q ∴ ¬p |  (¬q ∧ (p → q)) → ¬p  |
+| Hypothetical Syllogism |  p → q, q → r ∴ p → r  |  ((p → q) ∧ (q → r)) → (p → r)  |
+| Disjunctive Syllogism |  p ∨ q, ¬p ∴ q  |  ((p ∨ q) ∧ ¬p) → q  |
+| Addition |  p ∴ p ∨ q  |  p → p ∨ q  |
+| Simplification |  p ∧ q ∴ p  |  (p ∧ q) → p  |
+| Conjunction  |  p, q ∴ p ∧ q  |  ((p) ∧ (q)) → (p ∧ q)  |
+| Resolution  |  p ∨ q, ¬p ∨ r ∴ q ∨ r  |  ((p ∨ q) ∧ (¬p ∨ r)) → q ∨ r  |
+
 * We also tackled the Universal and Existential Quantifier. 
   - Universal quantifier - many mathematical statements assert that a property is true for all values of a variable in a particular domain.
   - Existential quantifier - it is true if and only if p(x) is true for at least one value of x in the domain.
 * I also learned the defenition of an integer.
-* 
+
+
 ##WEEK 4
 - This week we learned a method on how to construct proofs  which is called <b> Methods of Proof </b>
 - Under <b> Methods of Proof </b> there are several ways on proving logical statemetns which are:
@@ -95,5 +107,15 @@ dismathportfolio-limmichelle created by Classroom for GitHub
 - Proviing by Bi-conditional is hard cause you need to prove it both sides of the premises and precedent.
 - We refreshed Mathematical Induction from our ENGALG2
 
-
+##WEEK 6
+-We discuused about SUMMATION where in the notation for sum of am, am+1, ..., an is ∑ai=m ai where i is the index of summation.
+  - Σ “sigma”
+- Recursive Steps
+  - 1. Basis step: specify the value at zero
+  - 2. Recursive step: Find a rule for finding its value at an integer number from the values at smaller integers.
+-Program Correctness is to ensure that a program gives the correct output 
+ - Program Verification - A program is said to be correct if it produces the correct output for every possible input.
+  - Partial Correctness
+- HOARE TRIPLE p{S}q
+  - S is said to be partially correct with respect to the initial assertion p and the final assertion q if whenever p is true for the input values of S and S terminates, then q is true for the output values of S
 
