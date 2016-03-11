@@ -118,4 +118,21 @@ dismathportfolio-limmichelle created by Classroom for GitHub
   - Partial Correctness
 - HOARE TRIPLE p{S}q
   - S is said to be partially correct with respect to the initial assertion p and the final assertion q if whenever p is true for the input values of S and S terminates, then q is true for the output values of S
+  
+##WEEK 7
+* We were introduced to the lesson about sets and cardinality.
+* We reviewed the lesson about quantifiers and nested quantifiers in preparation for our first quiz.
+* A function f from A to B is an assignment of exactly one element of B to each element of A.
+* Functions are also called mappings/transformations.
+* Domain - set of real numbers
+* Codomain - set of integers
+* Range - actually occurring values
+* Types of functions
+ * One-to-one function (injective)
+ * Onto function (subjective)
+ * One-to-one and onto (bijective)
+* A one-to-many relation is not a function.
+
+##
+
 
