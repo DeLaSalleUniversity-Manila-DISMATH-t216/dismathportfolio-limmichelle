@@ -118,10 +118,44 @@ dismathportfolio-limmichelle created by Classroom for GitHub
   - Partial Correctness
 - HOARE TRIPLE p{S}q
   - S is said to be partially correct with respect to the initial assertion p and the final assertion q if whenever p is true for the input values of S and S terminates, then q is true for the output values of S
+  - Hoare Triple Notation: p{S}q
+  - Composition Rule <br>
+   p{S<sub>1</sub>}q <br>
+   q{S<sub>2</sub>}r <br>
+  -------------------- <br>
+  ∴ p{S<sub>1</sub>:S<sub>2</sub>}q <br><br>
+
   
 ##WEEK 7
 * We were introduced to the lesson about sets and cardinality.
+ - SET THEORY
+  - A set is an unordered collection of distinct objects, which may be anything (including other sets).
+    - {f, a, e, n, i, c, l}
+  - Empty Set { } = ∅ means no elements
+    - {∅} not an empty set
+  - Set Builder Notation {x | some property that x satisfies}
+  - Membership
+    - 1 ∈ {1, 2, 3, 4}
 * We reviewed the lesson about quantifiers and nested quantifiers in preparation for our first quiz.
+- *SET IDENTITIES TABLE*
+
+|  LAW  |  IDENTITY  |
+| :------: | :-----------------------------: |
+|  Identity Laws  |  A ⋂ U ≡ A  <br>  A ⋃ ∅ ≡ A  |
+|  Domination Laws  |  A ⋃ U ≡ U  <br>  A ⋂ ∅ ≡ ∅  |
+|  Idempotent Laws  |  A ⋃ A ≡ A  <br>  A ⋂ A ≡ A  |
+|  Complementation Law  |  (A¯)‾ ≡ A  |
+|  Commutative Laws  |  A ⋃ B ≡ B ⋃ A  <br>  A ⋂ B ≡ B ⋂ A  |
+|  Associative Laws  |  A ⋃ (B ⋃ C) ≡ (A ⋃ B) ⋃ C  <br>  A ⋂ (B ⋂ C) ≡ (A ⋂ B) ⋂ C  |
+|  Distributive Laws  |  A ⋃ (B ⋂ C) ≡ (A ⋃ B) ⋂ (A ⋃ C) <br>  A ⋂ (B ⋃ C) ≡ (A ⋂ B) ⋃ (A ⋂ C)  |
+|  De Morgan's Laws  |  (A ⋂ B)‾ ≡ A‾ ⋃ B‾  <br>  (A ⋃ B)‾ ≡ A‾ ⋂ B‾  |
+|  Absorption Laws  |  A ⋃ (A ⋂ B) ≡ A  <br>  A ⋂ (A ⋃ B) ≡ A  |
+|  Complement Laws  |  A ⋃ A‾ ≡ U  <br>  A ⋂ A‾ ≡ ∅  |
+
+- SUBSETS ⊆
+  - A set S is a subset of a set T (denotes S ⊆ T) if all elements of S are also elements of T
+- POWER SET P(S) = {T|T ⊆ S} - A set of all subsets.
+- CARDINALITY |S| - The number of element it contains
 * A function f from A to B is an assignment of exactly one element of B to each element of A.
 * Functions are also called mappings/transformations.
 * Domain - set of real numbers
@@ -130,9 +164,21 @@ dismathportfolio-limmichelle created by Classroom for GitHub
 * Types of functions
  * One-to-one function (injective)
  * Onto function (subjective)
- * One-to-one and onto (bijective)
+ * One-to-one and onto (bijective) - also called one-to-one correspondents
 * A one-to-many relation is not a function.
 
-##
+##WEEK 8
+-Algorithms - It is defined as a finite set of precise instructions for performing a computation or for solving a problem.
+- Properties of Algorithms: Input, Output, Definiteness, Correctness, Finiteness, Effectiveness, Generality
+-Pseudocode - serves as an intermediate step in the construction of programs implementing algorithms in one of a variety of different programming languages. 
+            - for human reading, something like a draft before doing actual programming on the computer
+Algorithm example: Finding the Maximum in a Finite Set
+  - Procedure: ({a1, a2, a3,..,an} ∈ , Z)
+  - Output: largest 8
+  - Pseudocode
+    1. max = a1;
+    2. for i: 2 to n {
+    3.   if(max < ai)
+    4.       max = ai;}
 
 
