@@ -156,6 +156,8 @@ dismathportfolio-limmichelle created by Classroom for GitHub
   - A set S is a subset of a set T (denotes S ⊆ T) if all elements of S are also elements of T
 - POWER SET P(S) = {T|T ⊆ S} - A set of all subsets.
 - CARDINALITY |S| - The number of element it contains
+- ℵ₀   -is pronounced as “aleph-zero"/“alephnought”/“aleph-null”
+-     - define as |N| cause it's unaturally large, infinitely many numbers
 * A function f from A to B is an assignment of exactly one element of B to each element of A.
 * Functions are also called mappings/transformations.
 * Domain - set of real numbers
