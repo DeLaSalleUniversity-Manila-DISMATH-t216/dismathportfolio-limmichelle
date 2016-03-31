@@ -183,4 +183,62 @@ Algorithm example: Finding the Maximum in a Finite Set
     3.   if(max < ai)
     4.       max = ai;}
 
+##Week 9
+- We continued discussing the algorithms such as bubblegum sort...
+- 1. Searching Algorithms -problem of locating an algorithm in an ordered list
+    -a. Linear Search - where you have you compare each given value linearly.
+    -b. Binary Search - comparing the middle values of a list then repeated until the desired output is found.
+
+ - 2. Sorting Algortihms - problem of assorting elements into increasing order
+    - a. Bubble Sort - compares the first two elements then interchanging them if they are in the incorrect order.
+    - b. Insertion Sort - compares the second element with the first and inserts it before the first element if it is less. Otherwise, it is inserted after the first element.
+
+- 3. Greedy Algorithms - algorithms that make what seems to be the "best" choice at each step.
+
+- We started learning about Big O Notation.
+- 
+## Week 10:
+
+- We studied growth of Functions
+
+- Big-O Notation
+    - Let _f_ and _g_ be functions from R-R; _f(x)_ is _O(g(x))_ if there are constants _C_ and _k_ such that: </br>
+        |f(x)| ≤ C|g(x)| </br>
+    whenever _x > k_.
+
+- Big-Omega and Big-Theta Notation 
+    - Big-O Notation does not provide a lowerbound for the size of f(x). </br>
+        - a. Big-Omega (Big-Ω) - lower bound </br>
+        - b.Big-Theta(Big-Θ) - both upper and lower bound
+        
+
+## Week 11
+Holy Week
+
+## Week 12
+- We started discussing about Graph Theory
+-  Graph Theory
+
+    - Degree - number of degrees at a node/vertex
+    - Handshaking Theory - 2e = ∑deg(v)
+    - Path - sequence of edges travelling from vertex to vertex along the edges
+    - Euler Circuit - passess through every edge and goes back to starting point
+    - Euler Path - simple path containing every edge of the graph
+    - Hamilton Path - passes through every vertex
+    - Hamilton Circuit - passes through every vertex then goes back to the starting point
+    - Matrices of Graphs- 1 for adjacent; 0 for non-adjacent
+    - Incidence of Matrices - Matric between vertices and edges
+    - Isomorphism of Graphs - "rubberband"
+
+* Planar Graph
+    - no edges cross in a graph
+    - Euler's Formula - regions = edges - vertices + 2
+    - Euler's Characteristic - ℵ = regions - |edges| + |vertices| = 2
+
+* Homeomorphic Graphs
+    - can be obtained from the same graph by a sequence of elementary subdivisions
+        - Elementary Subdivision - everything is planar graph
+    - Kuratowski's Theorem - nonplanar if and only if it contains a subgraph homeophobic to K<sub>3,3</sub> and K<sub>5</sub>
+
+
 
