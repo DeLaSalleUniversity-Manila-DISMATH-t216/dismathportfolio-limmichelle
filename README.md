@@ -218,6 +218,9 @@ Holy Week
 ## Week 12
 - We started discussing about Graph Theory
 -  Graph Theory
+- Graph – discrete structures consisting of vertices and edges that connect these vertices.
+- A graph G = (V, E) consists of V, a nonempty set of vertices (or nodes ) and E, a set of edges. Each edge has either one or two vertices associated with it, called its endpoints.
+- A subgraph of a graph G = (V, E) is a graph H = (W, F), where W V and F E . A subgraph H of G is a proper subgraph of G if H G.
 
     - Degree - number of degrees at a node/vertex
     - Handshaking Theory - 2e = ∑deg(v)
@@ -232,7 +235,9 @@ Holy Week
 
 * Planar Graph
     - no edges cross in a graph
-    - Euler's Formula - regions = edges - vertices + 2
+    - Euler's Formula - Let G be a connected planar simple graph with e edges and v vertices. Let r be the number of regions in planar representation of G . Then 
+    - **r = e - v + 2**
+    - A planar representation of a graph splits the plane into regions, including an unbounded region.
     - Euler's Characteristic - ℵ = regions - |edges| + |vertices| = 2
 
 * Homeomorphic Graphs
