@@ -244,6 +244,12 @@ Holy Week
     - can be obtained from the same graph by a sequence of elementary subdivisions
         - Elementary Subdivision - everything is planar graph
     - Kuratowski's Theorem - nonplanar if and only if it contains a subgraph homeophobic to K<sub>3,3</sub> and K<sub>5</sub>
+##Week 13
+* We discussed about Graph Coloring and Trees
+* A coloring of a simple graph is the assignment of a color to each vertex of the graph so that no two adjacent vertices are assigned the same color.
+* The chromatic number of a graph is the least number of colors needed for a coloring of this graph.
+* Four Color theorem: The chromatic number of planar graph is no greater than four. 
+* A tree is a connected undirected graph with no simple circuits.
 
 
 
